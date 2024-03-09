@@ -1,2 +1,5 @@
 # Learningbasic-HTML-CSS
-My Firstday learning html and css
+My First day learning html and css
+In this code i learn basic HTML structure, some elements and hyperlinks and Also i learn some basics CSS ccode like css attributes, css selector, css value at this rate im happy to see my output 
+ill keep leraning until i become as a web developer
+
