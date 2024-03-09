@@ -1,0 +1,66 @@
+p{
+    margin-top: 0;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 0px;
+}
+.vedio-title{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+    font-size: 18px;
+    line-height: 24px;
+    width: 300px;
+
+}
+.views{
+    color: #606060;
+    margin-top: 8px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.creator{
+    color: #606060;
+    margin-bottom: 20px;
+}
+.description{
+    color: #606060;
+    width: 300px;
+}
+
+.shop-link{
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(227, 65, 64);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 14px;
+}
+.color{
+    color: white;
+}
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+.learn{
+    color: gray;
+    margin-bottom: 18px;
+}
+
+.ddescription{
+    color: black;
+    width: 270px;
+    margin-bottom: 10px;
+}
+.get-buying{
+    background-color: rgb(21, 114, 21);
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
